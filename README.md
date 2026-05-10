@@ -9,13 +9,13 @@ El dashboard permite evaluar el estado del inventario, el desempeño de ventas y
 
 ## 🖼️ Vista General del Dashboard
 
-![Dashboard](image/InventoryDashboard.png)
+![Dashboard](Image/InventoryDashBoard.png)
 
 ---
 
 ## 🧠 Clasificación ABC del Inventario
 
-![ABC Classification](image/ABC.png)
+![ABC Classification](Image/ABC.png)
 
 Se implementa una clasificación basada en el **porcentaje acumulado de ventas**:
 
@@ -111,3 +111,42 @@ RANKX(
     DESC,
     Dense
 )
+---
+
+## 🛠 Herramientas Utilizadas
+
+- Microsoft Excel  
+- Power Pivot  
+- Tablas dinámicas  
+- Formato condicional  
+- DAX  
+
+---
+
+## 💡 Valor del Proyecto
+
+Este proyecto demuestra habilidades en:
+
+- Análisis de datos aplicado a Supply Chain  
+- Modelado de datos en Excel  
+- Visualización de información  
+- Identificación de problemas de negocio  
+- Interpretación de KPIs  
+
+---
+
+## 🔮 Mejoras Futuras
+
+- Integración con Power BI  
+- Automatización de datos  
+- Modelos de pronóstico más avanzados  
+- Optimización del inventario (EOQ, Safety Stock)  
+
+---
+
+## 👨‍💻 Autor
+
+**Roy Romero**  
+Analista de Datos | Supply Chain | Business Intelligence  
+
+---
